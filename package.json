@@ -2,7 +2,7 @@
   "name": "angular-bootstrap-checkbox",
   "version": "0.5.0",
   "description": "A checkbox for AngularJS styled to fit the Twitter Bootstrap standard design",
-  "main": "angular-bootstrap-checkbox.js",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
