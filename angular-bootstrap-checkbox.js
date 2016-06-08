@@ -1,6 +1,6 @@
-"use strict";
+(function() {
 
-module.exports = angular.module("ui.checkbox", []).directive("checkbox", function() {
+angular.module("ui.checkbox", []).directive("checkbox", function() {
 	return {
 		scope: {},
 		require: "ngModel",
@@ -105,3 +105,5 @@ module.exports = angular.module("ui.checkbox", []).directive("checkbox", functio
 		}
 	};
 });
+
+}());
